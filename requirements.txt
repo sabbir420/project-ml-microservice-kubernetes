@@ -1,0 +1,9 @@
+pandas
+sklearn
+flask
+pylint
+pytest
+sensible
+click
+numpy
+ipython
