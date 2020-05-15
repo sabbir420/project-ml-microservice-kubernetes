@@ -1,7 +1,7 @@
 # project-ml-microservice-kubernetes
 A project on operationalizing a Machine Learning Microservice API
 
-[![CircleCI](https://circleci.com/gh/circleci/project-ml-microservice-kubernetes.svg?style=svg)](https://circleci.com/gh/circleci/project-ml-microservice-kubernetes)
+[![CircleCI](https://circleci.com/gh/sabbir420/project-ml-microservice-kubernetes.svg?style=shield)](https://app.circleci.com/pipelines/github/sabbir420/project-ml-microservice-kubernetes)
 
 <h2>Project Overview</h2>
 
