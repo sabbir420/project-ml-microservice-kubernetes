@@ -25,8 +25,8 @@ A project on operationalizing a Machine Learning Microservice API
 <h2>Environment Setup</h2>
 
 <ul>
-  <li>Create a Makefile</li>
-  <li>Create a Dockerfile</li>
+  <li>Create a <code>Makefile</code></li>
+  <li>Create a <code>Dockerfile</code></li>
   <li>Run <code>make setup</code> to create a virtual environment and activate it</li>
   <li>Run <code>make install</code> to install necessary dependencies</li>
 </ul>
