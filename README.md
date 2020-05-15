@@ -27,6 +27,26 @@ A project on operationalizing a Machine Learning Microservice API
 <ul>
   <li>Create a Makefile</li>
   <li>Create a Dockerfile</li>
-  <li>Run ` make setup ` to create a virtual environment and activate it</li>
-  <li>Run ` make install ` to install necessary dependencies</li>
+  <li>Run <code>make setup</code> to create a virtual environment and activate it</li>
+  <li>Run <code>make install</code> to install necessary dependencies</li>
+</ul>
+
+<h2>Linting App</h2>
+
+<ul>
+  <li>Run <code>make lint</code> to lint the app</li>
+</ul>
+
+<h3>Testing App</h2>
+
+<ul>
+  <li>Run <code>make test</code> to test the app</li>
+</ul>
+
+<h2>Running App</h2>
+
+<ul>
+  <li>Standalone: <code>python app.py</code></li>
+  <li>Run in Docker: <code>./run_docker.sh</code></li>
+  <li>Make prediction: <code>./make_prediction.sh</code></li>
 </ul>
