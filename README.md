@@ -1,7 +1,7 @@
 # project-ml-microservice-kubernetes
 A project on operationalizing a Machine Learning Microservice API
 
-[![CircleCI](https://circleci.com/gh/sabbir420/project-ml-microservice-kubernetes.svg?style=shield)](https://app.circleci.com/pipelines/github/sabbir420/project-ml-microservice-kubernetes)
+[![CircleCI](https://circleci.com/gh/sabbir420/project-ml-microservice-kubernetes.svg?style=svg)](https://app.circleci.com/pipelines/github/sabbir420/project-ml-microservice-kubernetes)
 
 <h2>Project Overview</h2>
 
@@ -58,4 +58,12 @@ A project on operationalizing a Machine Learning Microservice API
 
 <ul>
   <li>Run <code>./upload_docker.sh</code> to upload the api to the Docker Hub</li>
+</ul>
+
+<h2>Kubernetes Steps</h2>
+
+<ul>
+  <li>Use <code>Minikube</code> to configure kubernetes locally. Run <code>minikube start</code> to check whether a cluster is running or not.</li>
+  <li>Run <code>./run_kubernetes.sh</code> to deploy and save output logs</li>
+  <li>Run <code>minikube delete</code> to delete the kubernetes cluster</li>
 </ul>
