@@ -50,3 +50,9 @@ A project on operationalizing a Machine Learning Microservice API
   <li>Run in Docker: <code>./run_docker.sh</code></li>
   <li>Make prediction: <code>./make_prediction.sh</code></li>
 </ul>
+
+<h2>Uploading to the Docker Hub</h2>
+
+<ul>
+  <li>Run <code>./upload_docker.sh</code> to upload the api to the Docker Hub</li>
+</ul>
