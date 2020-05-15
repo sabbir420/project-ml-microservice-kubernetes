@@ -48,6 +48,7 @@ A project on operationalizing a Machine Learning Microservice API
 <ul>
   <li>Standalone: <code>python app.py</code></li>
   <li>Run in Docker: <code>./run_docker.sh</code></li>
+  <li>Run in Kubernetes: <code>./run_kubernetes.sh</code></li>
   <li>Make prediction: <code>./make_prediction.sh</code></li>
 </ul>
 
